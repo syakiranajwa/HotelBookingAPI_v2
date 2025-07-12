@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Softin_HotelBookingAPI.props" />
+</Project>

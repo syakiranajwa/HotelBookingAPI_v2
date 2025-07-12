@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "w9cb4pTf3LhOSmIaKaHI/NBdrxtRzeqmShUeGft8QI0=",
+  "Source": "Softin_HotelBookingAPI",
+  "BasePath": "_content/Softin_HotelBookingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
