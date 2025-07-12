@@ -13,7 +13,7 @@
 - The room can be booked for different dates
 
 ## How to run the project
-git clone https://github.com/yourusername/HotelBookingAPI.git
+git clone https://github.com/syakiranajwa/HotelBookingAPI_v2.git
 cd HotelBookingAPI
 dotnet restore
 dotnet run
